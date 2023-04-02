@@ -35,7 +35,7 @@ public class DrawingView extends SurfaceView implements Runnable, SurfaceHolder.
     public static int LONG_PRESS_TIME=750;  // Time in milliseconds
     final Handler handler = new Handler();
 
-    //Added Variables by Cole
+    //Added Variables
     private short currentMap[][];           //the current map being played
 
     //refactor of DrawingView methods into separate objects/classes
