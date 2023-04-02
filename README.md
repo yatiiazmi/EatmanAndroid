@@ -11,7 +11,7 @@ Group Member :
 - Nur Alifah Ilyana Binti Mohd Rusli ( 22006956 )
 - Nurin Jazlina Binti Azhar ( 22007149 )
 
-Project discription :
+Project description :
 
 Eatman is a classic arcade-style game inspired by the iconic Pac-Man game. 
 The objective of the game is to eat all the dots in the maze while avoiding dangerous enemies. 
