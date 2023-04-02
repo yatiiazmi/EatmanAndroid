@@ -3,9 +3,7 @@ package com.example.eatmanandroid;
 import android.content.Intent;
 import android.content.Context;
 
-/**
- * Created by colerogers on 7/25/16.
- */
+
 public class Movement {
     //private instance vars
     private Eatman eatman;
