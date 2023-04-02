@@ -7,9 +7,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-/**
- * Created by colerogers on 7/10/16.
- */
+
 public class FailedLevelActivity extends Activity {
 
 
