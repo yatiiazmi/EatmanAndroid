@@ -4,9 +4,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
-/**
- * Created by M on 11/19/2016.
- */
+
 
 public class GameConditions {
 
