@@ -4,9 +4,6 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
-/**
- * Created by colerogers on 7/25/16.
- */
 public class BitmapImages {
     //private instance variables
     private int spriteSize, arrowSize, buttonSizeHeight, buttonSizeWidth;
