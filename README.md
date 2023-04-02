@@ -20,17 +20,9 @@ It also features colorful graphics that enhance the gameplay experience and crea
 Players can compete with each other for high scores and achievements, making it a great game for casual gamers .
 
 Task Distribution : 
-----------------------------------------------------------------------------------------------------------------
-|  Name           |                                Task                                                        |
-----------------------------------------------------------------------------------------------------------------
-| Nurnabihah      |               Movement class, Eatman class, Mouse class and UML diagram                    |
-----------------------------------------------------------------------------------------------------------------
-| Hayati          |                  Globals class, Level generator class and UML diagram                      |
-----------------------------------------------------------------------------------------------------------------
-| Amisya          |                                 all the activity classes                                   |
-----------------------------------------------------------------------------------------------------------------
-| Alifah          |               GameCondition class, PlayerDeathException class and UML diagram              |
-----------------------------------------------------------------------------------------------------------------
-| Nurin           |  UserInterface class, DrawingView class, Bitmaplmages class and editing video presentation |
-----------------------------------------------------------------------------------------------------------------
 
+- Nurnabihah : Movement class, Eatman class, Mouse class and UML diagram. 
+- Hayati     : Globals class, Level generator class and UML diagram.               
+- Amisya     : all the activity classes.      
+- Alifah     : GameCondition class, PlayerDeathException class and UML diagram.              
+- Nurin      : UserInterface class, DrawingView class, Bitmaplmages class and editing video presentation. 
