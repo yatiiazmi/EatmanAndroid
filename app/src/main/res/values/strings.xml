@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Eatman Android</string>
+    <string name="action_settings" />
+    <string name="nextLevel" />
+    <string name="settingsLabel" />
+    <string name="help" />
+    <string name="wonGame" />
+    <string name="keepPlaying" />
+    <string name="play" />
+    <string name="howToPlayLabel" />
+    <string name="howToPlay" />
+    <string name="controlsLabel" />
+    <string name="controls" />
+    <string name="resumeLabel" />
+    <string name="settingsTitle" />
+    <string name="difficulty" />
+    <string name="easyDifficulty" />
+    <string name="mediumDifficulty" />
+    <string name="hardDifficulty" />
+    <string name="expertDifficulty" />
+    <string name="musicToggle" />
+    <string name="gameOver" />
+    <string name="ok" />
+</resources>
