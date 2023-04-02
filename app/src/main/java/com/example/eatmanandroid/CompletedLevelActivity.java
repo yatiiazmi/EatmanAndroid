@@ -12,9 +12,7 @@ import android.view.View;
 
 import java.io.IOException;
 
-/**
- * Created by colerogers on 7/9/16.
- */
+
 public class CompletedLevelActivity extends Activity {
 
 
