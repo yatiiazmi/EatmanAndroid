@@ -9,14 +9,14 @@ public class Eatman {
     //private instance vars
     private int xPos, yPos, curDir, nextDir;
 
-    //create a new Pacman object at starting position
+    //create a new Eatman object at starting position
     public Eatman(final int blockSize) {
 
         //Eatman is at the 8 position of length in the array x-dir
         //e.g. curMap[8,y]
         xPos = 8 * blockSize;
 
-        //Pacman is at the 13 position of height in the array y-dir
+        //Eatman is at the 13 position of height in the array y-dir
         //e.g. curMap[x,13]
         yPos = 13 * blockSize;
 
@@ -59,7 +59,7 @@ public class Eatman {
     // This was based on the non-Android Eatman legacy project for CS56
     // Method that draws eatman based on his viewDirection
     public void drawEatman(BitmapImages bitmap, Canvas canvas, Movement movement, Paint paint, Context context, int currentEatmanFrame) {
-        //move pacman
+        //move eatman
         movement.moveEatman();
 
         //draw eatman
