@@ -4,9 +4,7 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 
-/**
- * Created by colerogers on 7/25/16.
- */
+
 public class Mouse {
     private int xPos, yPos, dir;
 
