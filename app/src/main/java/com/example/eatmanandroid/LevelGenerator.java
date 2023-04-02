@@ -1,7 +1,6 @@
 package com.example.eatmanandroid;
 
 /**
- * Created by colerogers on 7/10/16.
  * This class is for creating maps for each level
  * A map is a double-dimensional short array with the values corresponding to
  * walls and the gold pellets
