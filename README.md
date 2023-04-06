@@ -1,6 +1,6 @@
 This is our imagination output because we did not get the output. At first we got the output but then we want to change some features in the game so we change the coding but after that the changes, the output did not come out.
 
-1[Output Eatman 1](https://user-images.githubusercontent.com/118959268/230414740-77c842ea-8688-4d4a-9b6f-4618cea3f7a0.png)
+![Output Eatman 1](https://user-images.githubusercontent.com/118959268/230414740-77c842ea-8688-4d4a-9b6f-4618cea3f7a0.png)
 ![Output Eatman 2](https://user-images.githubusercontent.com/118959268/230414805-a19b2280-375f-49af-9f63-6c5daa759898.png)
 ![Output Eatman 3](https://user-images.githubusercontent.com/118959268/230414854-f3c26874-e7c1-4d5d-9c9b-3034c9e33d66.png)
 ![Output Eatman 4](https://user-images.githubusercontent.com/118959268/230414902-6bbc7ef3-b841-4ce2-bca3-8d18a2a6e0ef.png)
